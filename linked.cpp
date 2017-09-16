@@ -5,6 +5,7 @@ struct node{
     int data;
     node* next;
     node* prev;
+    //comment
 };
 node* head = NULL;
 node* GetNode(int x){
